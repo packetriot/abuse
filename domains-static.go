@@ -183,6 +183,7 @@ func init() {
 		"firemail.cc": true,
 		"fivemail.de": true,
 		"fleckens.hu": true,
+		"fleep.io": true,
 		"frapmail.com": true,
 		"friendlymail.co.uk": true,
 		"fuckingduh.com": true,
