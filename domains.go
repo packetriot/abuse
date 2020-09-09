@@ -67,3 +67,7 @@ func Add(domain string) (err error) {
 
 	return err
 }
+
+func AbusiveDomains() map[string]bool {
+	return tempDomain
+}
